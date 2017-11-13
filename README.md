@@ -6,4 +6,4 @@ Bluebird is an Openbox theme to match the Bluebird Xubuntu theme.
 
 | Operating system | Dependencies         | Status | License  |
 | :--------------- | :------------------- | :----- | :------- |
-| Linux            | Openbox              | Stable | AGPL-3.0 |
+| Linux            | Openbox              | Final  | AGPL-3.0 |
