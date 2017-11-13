@@ -1,6 +1,6 @@
 # bluebird
 
-Bluebird theme for Openbox to match the Bluebird Xubuntu theme.
+Bluebird is an Openbox theme to match the Bluebird Xubuntu theme.
 
 !["Screenshot of the Bluebird Openbox theme"](https://github.com/ikem-krueger/bluebird/blob/master/Screenshot.png)
 
