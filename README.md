@@ -1,4 +1,4 @@
-# bluebird
+# Bluebird
 
 Bluebird is an Openbox theme to match the Bluebird Xubuntu theme.
 
